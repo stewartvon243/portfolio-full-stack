@@ -28,6 +28,14 @@ export const InfoSection = () => {
             color=' rgb(18, 122, 209,0.7)'
             aria-label='mail'
           />
+          <GlowLink
+            href='/resume.pdf'
+            color='rgba(255, 255, 255, 0.7)'
+            icon={<span style={{fontWeight:600, fontSize:'1.1em', color:'white', fontFamily:'inherit'}}>CV</span>}
+            aria-label='resume'
+            target='_blank'
+            rel='noopener noreferrer'
+          />
         </div>
       </div>
       <div className='hero-info-col'>
