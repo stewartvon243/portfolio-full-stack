@@ -5,63 +5,70 @@ const timeline = [
 		title: 'Experience',
 		items: [
 			{
-				title: 'Senior Full-Stack Developer',
-				place: 'Freelance / Remote',
-				timePeriod: '2021 – Present',
+				title: 'SENIOR FULL-STACK DEVELOPER',
+				place: 'Smart Outsourcing Solution (Verified Company) – Hong Kong',
+				timePeriod: 'Jun 2023 – 2024',
 				description: (
 					<ul>
-						<li>Delivered over 30+ client projects across FinTech, eCommerce, and SaaS sectors.</li>
-						<li>Built and maintained complex Laravel & React-based web platforms with RESTful APIs.</li>
-						<li>Integrated crypto wallets (MetaMask, WalletConnect) and smart contract interactions for blockchain-based applications.</li>
-						<li>Modernized legacy systems in .NET with performance improvements and UI upgrades using AngularJS and Bootstrap.</li>
+						<li>Leading enterprise web application development using Laravel, React, and .NET. Mentoring junior developers and architecting scalable solutions.</li>
+						<li><strong>Technologies Used:</strong> Laravel, React, TypeScript, .NET Core, PostgreSQL, Docker</li>
+						<li><strong>Key Achievements:</strong></li>
+						<ul>
+							<li>Improved application performance by 40%</li>
+							<li>Led a team of 5 developers</li>
+							<li>Delivered 3 major projects on time</li>
+						</ul>
 					</ul>
 				),
 			},
 			{
-				title: 'Full-Stack Developer',
-				place: 'TechNova Solutions, Hong Kong',
-				timePeriod: '2017 – 2021',
+				title: 'FULL-STACK DEVELOPER',
+				place: 'Prizm Group – Global Digital Marketing Agency – Hong Kong',
+				timePeriod: 'Oct 2020 – May 2023',
 				description: (
 					<ul>
-						<li>Led a 5-member dev team in building a cloud-based CRM system using ASP.NET MVC and SQL Server.</li>
-						<li>Developed Android apps for internal tools used by logistics and service departments.</li>
-						<li>Implemented secure authentication and role-based access systems across multiple projects.</li>
+						<li>Built and maintained web applications using MERN stack and PHP. Delivered responsive Android mobile apps.</li>
+						<li><strong>Technologies Used:</strong> MERN Stack, PHP, Android, MySQL, AWS</li>
+						<li><strong>Key Achievements:</strong></li>
+						<ul>
+							<li>Developed 10+ web applications</li>
+							<li>Built mobile app with 50k+ downloads</li>
+							<li>Reduced server costs by 30%</li>
+						</ul>
 					</ul>
 				),
 			},
 			{
-				title: 'Junior Web Developer',
-				place: 'BrightApps Studio, Hong Kong',
-				timePeriod: '2015 – 2017',
+				title: 'JUNIOR DEVELOPER',
+				place: 'Teloz – Remote',
+				timePeriod: 'Apr 2019 – Sep 2020',
 				description: (
 					<ul>
-						<li>Assisted in developing responsive websites and dashboards using Laravel and jQuery.</li>
-						<li>Conducted frontend optimization and basic SEO enhancements.</li>
+						<li>Worked on various client projects using different tech stacks. Gained experience in both frontend and backend development.</li>
+						<li><strong>Technologies Used:</strong> JavaScript, PHP, MySQL, HTML/CSS, jQuery</li>
+						<li><strong>Key Achievements:</strong></li>
+						<ul>
+							<li>Completed 20+ client projects</li>
+							<li>Learned multiple tech stacks</li>
+							<li>Contributed to open source projects</li>
+						</ul>
 					</ul>
 				),
 			},
-		],
-	},
-	{
-		title: 'Certification',
-		items: [
 			{
-				title: 'Certified Laravel Developer',
-				place: 'Laracasts',
-				timePeriod: '',
-				description: null,
-			},
-			{
-				title: 'Microsoft Certified: Azure Fundamentals',
-				place: '',
-				timePeriod: '',
-				description: null,
-			},
-			{
-				title: 'Blockchain Development Bootcamp',
-				place: 'ConsenSys Academy (Online)',
-				timePeriod: '',
-				description: null,
+				title: 'JUNIOR FRONT-END DEVELOPER',
+				place: 'Zühlke Engineering – Hong Kong',
+				timePeriod: 'Jan 2017 – Mar 2019',
+				description: (
+					<ul>
+						<li>Worked on various client projects using different tech stacks. Gained experience in both frontend and backend development.</li>
+						<li><strong>Technologies Used:</strong> JavaScript, PHP, MySQL, HTML/CSS, jQuery</li>
+						<li>Assisted in building complex single-page applications (SPAs) in AngularJS.</li>
+						<li>Refactored legacy JavaScript modules into React components.</li>
+						<li>Contributed to a collaborative codebase with strict version control and code review policies.</li>
+						<li>Participated in Agile sprints, stand-ups, and retrospectives, improving team efficiency</li>
+					</ul>
+				),
 			},
 		],
 	},
