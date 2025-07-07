@@ -55,7 +55,7 @@ export const ProjectsSection = () => {
   return (
     <section className='projects-section container' id='projects'>
       <div className='projects-title-wrapper'>
-        <SectionTitle title='Projects' subTitle='SHOWCASE' />
+        <SectionTitle title='Projects' />
       </div>
       <div className='projects-list'>
         {projects.map((project, idx) => (
