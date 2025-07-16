@@ -1,0 +1,1 @@
+Veltpetter.no is an even based site, specifically targeted to cycling events. To start with, we have  converted the existing site into DNN 6 and integrated a number of DNN modules like: Member, Active Forum, DNN Blog, DNN Banner. 
